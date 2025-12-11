@@ -15,7 +15,7 @@ ip_routing: true
 
 # Needed for Arista ATD Lab Environment
 dns_domain: atd.lab
-mgmt_interface: Management0
+mgmt_interface: Management1
 mgmt_interface_vrf: MGMT
 mgmt_gateway: 192.168.0.1
 mgmt_vrf_routing: true
